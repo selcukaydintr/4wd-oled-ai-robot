@@ -1,0 +1,6 @@
+MobileNet: Görüntü sınıflandırma için hafif ve etkili bir model.
+SSD MobileNet: Nesne tespiti için kullanılır.
+Keyword Spotting: Ses tanıma için küçük bir model.
+Python ile SpeechRecognition Kullanımı
+Mozilla TTS TensorFlow Lite TTS
+TinyGPT TensorFlow Lite ile GPT 
