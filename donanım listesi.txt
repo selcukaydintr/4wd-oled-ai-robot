@@ -1,0 +1,86 @@
+MPU6050 6 Eksen İvme ve Gyro Sensörü gy-521
+L298 Mini DC ve Step Motor Sürücü Modülü
+6V 250 Rpm Motor ve Tekerlek Seti
+Ams1117 3.3v Voltaj Regülatörü Modülü
+2 adet 0.96 inch OLED ekran 128x64 SSD1306  
+TP4056 1s 3.7v 1a Lipo pil Şarj Cihazı - 5v 1a
+1 x Passive Buzzer Module
+
+1 x 2-Color LED Module
+
+1 x Hit Sensor Module
+
+1 x Vibration Key Module
+
+1 x Photoresistor Module
+
+1 x Contact Switch Module
+
+1 x Tilt Switch Module
+
+1 x 3 Color Full-Color LED SMD Modules
+
+1 x Infrared Emission Sensor Module
+
+1 x 3 Color LED Module
+
+1 x Mercury Open Optical Module
+
+1 x 2-Color LED Module 3mm
+
+1 x Active Buzzer Module
+
+1 x Temperature Sensor Module
+
+1 x Automatic Colorful LED Blinking Module
+
+1 x Mini Magnetic Reed Modules
+
+1 x Hall Magnetic Sensor Module
+
+1 x Infrared Sensor Receiver Module
+
+1 x Class Magnetic Sensor
+
+1 x Magic Light Cup Module
+
+1 x Rotary Encoder Module
+
+1 x Optical Break Module
+
+1 x Heartbeat Detection Module
+
+1 x Reed Module
+
+1 x Obstacle Avoidance Sensor Module
+
+1 x Sound Sensor Module
+
+1 x Laser Sensor Module
+
+1 x 5V Relay Module
+
+1 x Temperature Sensor Module
+
+1 x Temperature Sensor Module
+
+1 x Linear Magnetic Hall Sensors
+
+1 x Flame Sensor Module
+
+1 x Sensitive Microphone Sensor Module
+
+1 x Temperature/Humidity Sensor Module
+
+1 x XY-Axis Joystick Module
+
+1 x Metal Touch Sensor Module
+
+1 x Protective Case
+IR Receiver ve IR Kumanda
+16'lı Dokunmatik Tuş Takımı - Kapasitif Buton
+4 adet Tekerlek
+2 adet SG90 mini servo ( pan tilt olabilir )
+GY-NEO6MV2 GPS Modülü | Uçuş Kontrol Sistem GPS
+Arduino Dokunmatik Sensörü TTP223B
+Yağmur Damlası Sensörü - rain drop sensor
